@@ -8,5 +8,5 @@ date: 2023-12-18
 location: "Germany"
 ---
 
-[More information here](http://exampleurl.com)
+[Slides](http://exampleurl.com)  [Video](http://exampleurl.com) 
 

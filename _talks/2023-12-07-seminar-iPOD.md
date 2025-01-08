@@ -3,7 +3,7 @@ title: "Decay rate of two depth functions, half-space depth and spatial depth, a
 to tail distribution behaviour"
 collection: talks
 type: "talk"
-permalink: /talks/2023-12-07-iPOD-3
+permalink: /talks/2023-12-07-seminar-iPOD
 venue: "iPOD seminar at University of Leiden"
 date: 2023-12-07
 location: "Netherlands"

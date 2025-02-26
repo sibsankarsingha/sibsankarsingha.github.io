@@ -4,8 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/
 venue: ""
-date: 
-location: "City, Country"
+location: ""
 ---
 
 ## Graduate Courses  

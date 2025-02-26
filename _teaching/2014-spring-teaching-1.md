@@ -1,7 +1,7 @@
 ---
-title: " "
+title: ""
 permalink: /teaching/
-date: " "
+date: ""
 ---
 # Teaching Experience
 

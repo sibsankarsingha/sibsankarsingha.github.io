@@ -1,4 +1,13 @@
-# Teaching Experience
+---
+title: " "
+collection: teaching
+type: " "
+permalink: 
+venue: " "
+date: 1
+location: " "
+---
+
 
 ## Graduate Courses  
 - **Probability Theory** (TA, Fall 2020, 2021) – TIFR-CAM  

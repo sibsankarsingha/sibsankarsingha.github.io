@@ -1,10 +1,7 @@
 ---
-title: ""
+title: "Teaching Experiences"
 collection: teaching
-type: "undergrad"
 permalink: /teaching/
-venue: "University"
-
 ---
 
 ## Graduate Courses  

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Teaching"
+collection: teaching
 permalink: /teaching/
 ---
 

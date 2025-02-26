@@ -1,10 +1,10 @@
 ---
-title: "Teaching"
+title: ""
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/
-venue: "University 1, Department"
-date: 2015-01-01
+venue: ""
+date: 
 location: "City, Country"
 ---
 

@@ -24,7 +24,7 @@ author:
   avatar           : "Singha_Sibsankar.png"
   name             : "Sibsankar Singha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Paris, France"
   employer         : "Télécom Paris"
   uri              : # URL

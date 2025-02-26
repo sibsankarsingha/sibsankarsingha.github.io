@@ -1,9 +1,7 @@
 ---
 title: ""
 permalink: /teaching/
-date: ""
 ---
-# Teaching Experience
 
 ## Graduate Courses  
 - **Probability Theory** (TA, Fall 2020, 2021) – TIFR-CAM  

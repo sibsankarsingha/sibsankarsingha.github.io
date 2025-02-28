@@ -97,7 +97,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark"
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -346,3 +346,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    
+minimal_mistakes_skin: "dark"
